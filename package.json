@@ -1,0 +1,12 @@
+{
+  "name": "javascript-example",
+  "version": "1.0.0",
+  "description": "JavaScript example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/specs/*.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "~3.6.0"
+  }
+}
